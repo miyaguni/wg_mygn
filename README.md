@@ -7,3 +7,6 @@
 
 ##追加できてれば成功
 ***success!!!***
+
+##Sublime Text
+* Shift + command + p で sspと入力 → textにcolor
