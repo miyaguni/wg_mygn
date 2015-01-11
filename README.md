@@ -10,3 +10,7 @@
 
 ##Sublime Text
 * Shift + command + p で sspと入力 → textにcolor
+
+##コマンドによるMySQLの起動と停止
+1.sudo /usr/local/mysql/support-files/mysql.server start
+2.sudo /usr/local/mysql/support-files/mysql.server stop
