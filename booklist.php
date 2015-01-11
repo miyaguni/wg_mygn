@@ -1,6 +1,6 @@
 <?php 
 
-$db = new mysqli("localhost", "petermac", "password", "library");
+$db = new mysqli("アクセス先のサーバ", "ユーザ名", "パスワード", "アクセス先のDB");
 
 // 上で設定した接続情報が正しいことを確認する
 if ($db->connect_error) {
