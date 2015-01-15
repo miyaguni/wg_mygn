@@ -38,4 +38,5 @@
             echo date("n月d日", $time). "　";
         }
     }
+
 ?>
