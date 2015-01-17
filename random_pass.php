@@ -6,4 +6,7 @@
 	$ar_all = array_merge($ar1,$ar2,$ar3); //全て統合する
 	shuffle($ar_all); //まぜまぜする
 	echo substr(implode($ar_all),0,$num); //先頭の12文字を表示,substrは文字列の一部分を返す
+
+	//ここでユーザーに初期パスワード出して、
+	//どっかに保存して照合できるようにすればええのかしら
 ?>
